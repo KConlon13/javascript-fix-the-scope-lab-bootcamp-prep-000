@@ -32,4 +32,3 @@ theFunk = function() {
   theFunk;
 };
 
-theFunk();
